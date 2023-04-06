@@ -8,6 +8,14 @@ body{
 
 }
 
+iframe.fullScreen {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
 h1 {
     background-image: url("../images/01.jpeg");
     text-align: center;
